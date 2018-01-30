@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
-    <g fill="none" fill-rule="evenodd">
-        <circle cx="22" cy="22" r="22" fill="#FF4070"/>
-        <path fill="#FFF" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M22.798 22l4.387-4.388.4-.399-.798-.797-.4.399L22 21.202l-4.388-4.387-.399-.4-.797.798.399.4L21.202 22l-4.387 4.388-.4.399.798.797.4-.399L22 22.798l4.388 4.387.399.4.797-.798-.399-.4L22.798 22z"/>
-    </g>
-</svg>
