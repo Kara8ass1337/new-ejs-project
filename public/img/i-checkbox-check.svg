@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 14 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Tick</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Checkbox/Turn-on" transform="translate(-4.000000, -2.000000)" fill="#3253FA">
+            <g id="Tick" transform="translate(4.000000, 5.000000)">
+                <polygon id="Page-1" points="12.9232331 -2.88888889 4.30808282 5.8220169 1.07727454 2.5552989 0 3.64454711 4.30808282 8 14 -1.80015399"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

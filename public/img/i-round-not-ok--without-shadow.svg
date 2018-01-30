@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Checkbox / BIG_nonactive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Checkbox-/-BIG_nonactive">
+            <circle id="Oval-4" fill="#E4E6EB" cx="12" cy="12" r="12"></circle>
+            <polyline id="Line" stroke="#989DB3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="8 13 9.88235294 15 16 9"></polyline>
+        </g>
+    </g>
+</svg>

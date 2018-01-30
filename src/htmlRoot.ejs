@@ -1,0 +1,28 @@
+<%
+var options = htmlWebpackPlugin.options;
+var title = options.title;
+var context = options.context;
+var header = options.header;
+var footer= options.footer;
+
+var params = {
+    context: context,
+    header: header,
+    footer: footer
+}
+%>
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title><%= title %></title>
+</head>
+<body data-page="<%= context %>">
+<div id="wrapper-offset">
+    <%= require('elements/header/header.ejs')(params) %>
+    <%= require('components/' + context + '/'+ context + '.ejs')(params) %>
+    <%= require('elements/footer/footer.ejs')(params) %>
+</div>
+</body>
+</html>
